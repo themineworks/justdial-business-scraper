@@ -1,0 +1,14 @@
+{
+  "name": "justdial-business-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js client for the themineworks/justdial-business Apify actor",
+  "main": "justdial_business_scraper.mjs",
+  "scripts": {
+    "start": "node justdial_business_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^1.9.2"
+  },
+  "license": "MIT"
+}

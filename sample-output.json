@@ -1,0 +1,50 @@
+[
+  {
+    "name": "The Spice Of Legend",
+    "phone": "+(91)-8511277368",
+    "address": "Opp Gokul Nagar Kalyan West",
+    "area": "Vasant Valley Road Kalyan West",
+    "city": "mumbai",
+    "category": "Chinese, Multicuisine, Mughlai, Sea Food, North Indian",
+    "rating": 5,
+    "rating_count": 15,
+    "latitude": 19.255788756784,
+    "longitude": 73.13951287476,
+    "verified": true,
+    "url": "https://www.justdial.com/DT-43CNUE2A6CU",
+    "docid": "022PXX22.XX22.251108154709.I6E4",
+    "scraped_at": "2026-07-27T16:41:52.192Z"
+  },
+  {
+    "name": "Maharaja Kathiyawadi Dhaba",
+    "phone": "+(91)-7041458098",
+    "address": "Near Bikaner Sweets Vasai West",
+    "area": "100Ft Road Vasai West",
+    "city": "mumbai",
+    "category": "Chinese, North Indian, Rajasthani, Kathiyawadi, Thai",
+    "rating": 3.8,
+    "rating_count": 455,
+    "latitude": 19.387957484351,
+    "longitude": 72.826502323599,
+    "verified": true,
+    "url": "https://www.justdial.com/DT-43WCT8KWU1J",
+    "docid": "022PXX22.XX22.200312190526.B7L1",
+    "scraped_at": "2026-07-27T16:41:52.319Z"
+  },
+  {
+    "name": "New Naaz Restaurant",
+    "phone": "+(91)-7041343569",
+    "address": "Opp Diaghar Police Station Mumbra",
+    "area": "Mumbra Panvel Road Mumbra",
+    "city": "mumbai",
+    "category": "Chinese, South Indian, Mughlai, Sea Food, North Indian",
+    "rating": 4,
+    "rating_count": 441,
+    "latitude": 19.142455,
+    "longitude": 73.0477211,
+    "verified": true,
+    "url": "https://www.justdial.com/DT-43MKQSVZO2D",
+    "docid": "022PXX22.XX22.250923191700.Y6N4",
+    "scraped_at": "2026-07-27T16:41:52.405Z"
+  }
+]
