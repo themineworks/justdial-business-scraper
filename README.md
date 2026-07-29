@@ -47,3 +47,10 @@ The scraping itself — anti-bot handling, proxy rotation, phone/field resolutio
 ## License
 
 MIT © The Mine Works
+
+### Node.js
+
+```bash
+npm install apify-client
+node justdial_business_scraper.mjs --token YOUR_APIFY_TOKEN
+```
