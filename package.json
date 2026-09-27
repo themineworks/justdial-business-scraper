@@ -1,14 +1,15 @@
 {
   "name": "justdial-business-scraper",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
-  "description": "Node.js client for the themineworks/justdial-business Apify actor",
+  "description": "India local business listings, phone numbers, and reviews. Python, Node.js and cURL clients for the JustDial Scraper on Apify, pay per result.",
   "main": "justdial_business_scraper.mjs",
   "scripts": {
     "start": "node justdial_business_scraper.mjs"
   },
   "dependencies": {
-    "apify-client": "^1.9.2"
+    "apify-client": "^2.9.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/justdial-business/"
 }

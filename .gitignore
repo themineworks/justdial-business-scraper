@@ -1,6 +1,6 @@
 __pycache__/
 *.pyc
-*.csv
+node_modules/
+results.json
+results.csv
 .env
-.venv/
-venv/
