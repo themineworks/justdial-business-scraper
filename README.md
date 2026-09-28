@@ -5,7 +5,7 @@ Scrape business listings from JustDial, India's largest local business directory
 **Run it on Apify:** [apify.com/themineworks/justdial-business](https://apify.com/themineworks/justdial-business)
 **Docs, FAQ and pricing:** [themineworks.com/actors/justdial-business](https://themineworks.com/actors/justdial-business/)
 
-**Price:** $3.00 per 1,000 listings on Apify's free plan, down to $2.00 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $2.00 per 1,000 listings on Apify's higher plans ($3.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -13,7 +13,7 @@ Scrape business listings from JustDial, India's largest local business directory
 * Rating, review count, and category data
 * Search by city and business category
 * India local lead generation at scale
-* Zero charge on empty searches
+* Empty results are never charged
 
 ## Quick start
 
@@ -147,7 +147,7 @@ Local lead lists and market mapping: every clinic, salon or dealer in a chosen a
 
 ### How much does the JustDial Scraper cost?
 
-$3.00 per 1,000 listings on Apify's free plan, down to $2.00 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $2.00 per 1,000 listings on Apify's higher plans ($3.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
